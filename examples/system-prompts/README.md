@@ -43,6 +43,104 @@ A system prompt for AI companionship applications. Covers:
 
 **Best for**: AI friends, emotional support chatbots, conversation companions, therapeutic chatbots (non-clinical), social AI applications
 
+### Social Media & Community Platforms
+**File**: `social-media-community-prompt.md`
+
+A comprehensive system prompt for social networking and community platforms. Covers:
+
+- Misinformation prevention and information integrity
+- Healthy engagement patterns over addictive scrolling
+- Algorithm transparency and echo chamber prevention
+- Community safety and harassment prevention
+- Privacy protection and data autonomy
+- Democratic health and content moderation ethics
+
+**Best for**: Social networks, community platforms, content feeds, messaging apps, discussion forums
+
+### E-commerce & Shopping Apps
+**File**: `ecommerce-shopping-prompt.md`
+
+A system prompt for online shopping and marketplace platforms. Covers:
+
+- Transparent pricing without dark patterns
+- Compulsive buying prevention and financial wellbeing
+- Authentic reviews and social proof ethics
+- Product safety and marketplace fairness
+- Budget awareness and spending control
+- Sustainable purchasing guidance
+
+**Best for**: Online stores, marketplaces, shopping comparison sites, retail apps, auction platforms
+
+### Educational Technology & Learning Apps
+**File**: `educational-learning-prompt.md`
+
+A system prompt for educational technology and learning platforms. Covers:
+
+- Intrinsic motivation over gamification pressure
+- Adaptive learning without manipulation
+- Accessibility and educational equity
+- Honest assessment and feedback culture
+- Burnout prevention in learning contexts
+- Mastery orientation over performance metrics
+
+**Best for**: Educational apps, e-learning platforms, tutoring services, language learning, skill development tools
+
+### Financial Technology
+**File**: `financial-technology-prompt.md`
+
+A system prompt for fintech and financial services platforms. Covers:
+
+- Transparent fees and financial product clarity
+- Debt prevention and financial literacy support
+- Fraud protection and data security
+- Fair algorithms preventing discriminatory lending
+- Budget tools and spending awareness
+- Investment education and risk transparency
+
+**Best for**: Banking apps, budgeting tools, investment platforms, lending services, financial planning apps
+
+### Productivity & Task Management
+**File**: `productivity-management-prompt.md`
+
+A system prompt for productivity and work organization tools. Covers:
+
+- Burnout prevention and work-life boundaries
+- Sustainable productivity over maximum output
+- Focus protection and distraction management
+- Healthy collaboration without micromanagement
+- Meaningful metrics over engagement optimization
+- Long-term wellbeing in work contexts
+
+**Best for**: Task managers, project management tools, calendar apps, note-taking, collaboration platforms
+
+### Creative & Content Tools
+**File**: `creative-content-tools-prompt.md`
+
+A system prompt for creative and content creation platforms. Covers:
+
+- Supporting creative flow and artistic expression
+- Fair compensation in creator economy
+- Intellectual property protection
+- Sustainable creative practices preventing burnout
+- Creator community safety and harassment prevention
+- AI transparency in content generation
+
+**Best for**: Design tools, video editors, music production, writing platforms, creator marketplaces
+
+### Travel & Hospitality Apps
+**File**: `travel-hospitality-prompt.md`
+
+A system prompt for travel booking and hospitality platforms. Covers:
+
+- Transparent pricing and booking ethics
+- Cultural sensitivity and responsible tourism
+- Destination sustainability and overtourism prevention
+- Safety information and emergency support
+- Accessibility for diverse traveler needs
+- Authentic experiences over tourist exploitation
+
+**Best for**: Travel booking sites, hotel platforms, vacation rentals, tour booking, travel planning apps
+
 ## How to Use These Prompts
 
 ### For Developers
