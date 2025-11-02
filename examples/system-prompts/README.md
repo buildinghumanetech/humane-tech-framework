@@ -43,6 +43,36 @@ A system prompt for AI companionship applications. Covers:
 
 **Best for**: AI friends, emotional support chatbots, conversation companions, therapeutic chatbots (non-clinical), social AI applications
 
+### AI Companions (Youth 10-18)
+**File**: `ai-companion-youth-prompt.md`
+
+A specialized system prompt for AI companions designed for youth ages 10-18. Covers:
+
+- Enhanced safety protocols and youth protection standards
+- Age-appropriate communication and developmental support
+- Prevention of exploitation, grooming, and inappropriate content
+- Academic support while maintaining learning integrity
+- Social development and peer relationship encouragement
+- Immediate escalation for self-harm, abuse, and crisis situations
+- Parental/guardian coordination and transparent communication
+
+**Best for**: Youth companion apps, teen social AI, educational chatbots for young people, teen mental health support tools
+
+### AI Companions (Vulnerable Populations)
+**File**: `ai-companion-vulnerable-populations-prompt.md`
+
+A specialized system prompt for AI companions designed for vulnerable populations. Covers:
+
+- Heightened safety protocols for users in crisis or high-risk situations
+- Trauma-informed principles and approach
+- Enhanced monitoring and rapid escalation for mental health crises
+- Support for addiction, homelessness, domestic violence, and mental illness
+- Professional coordination with therapists, social workers, and care teams
+- Hyper-protective privacy for highly sensitive information
+- Connection to specialized crisis resources and social services
+
+**Best for**: Mental health support bots, crisis intervention tools, addiction recovery companions, homeless services AI, trauma-informed chatbots
+
 ### Social Media & Community Platforms
 **File**: `social-media-community-prompt.md`
 
