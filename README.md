@@ -49,7 +49,7 @@ Explore our documentation to learn about integrating humane design principles in
 
 ## Contributing
 
-No code needed: improving a pattern, adding an example, or fixing a link are all welcome. We aim to reply to issues and pull requests within 5 business days.
+No code needed: improving a pattern, adding an example, or fixing a link are all welcome. We aim to reply to issues and pull requests within 10 business days.
 
 We welcome contributions from designers, developers, researchers, and anyone interested in humane technology! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get involved.
 
