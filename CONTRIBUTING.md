@@ -1,6 +1,6 @@
 # Contributing to the Humane Technology Framework
 
-Thank you for your interest in contributing to the Humane Technology Framework! This document provides guidelines and instructions for contributing to this project.
+Thank you for helping improve the Humane Technology Framework. Most contributions here are writing, not code.
 
 ## Ways to Contribute
 
@@ -43,6 +43,14 @@ When contributing content, please:
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
+## Response times
+
+We aim to reply to new issues and pull requests within 5 business days. If you hear nothing after 10, comment again.
+
+## Licensing of contributions
+
+Contributions come in under the license this repository is released under (see [LICENSE](LICENSE)). There is no CLA. By opening a pull request you confirm you have the right to submit your contribution under that license.
+
 ## Questions?
 
-If you have any questions or need help with your contribution, please open an issue or reach out to the maintainers. 
+Open an issue, or email info@buildinghumanetech.com. 

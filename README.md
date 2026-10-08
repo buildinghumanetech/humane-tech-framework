@@ -1,12 +1,14 @@
 # Humane Technology Framework
 
+> **Status: maintained by [Building Humane Tech](https://github.com/buildinghumanetech).** This is the practical guide: principles, a checklist, design patterns and examples for people building products. To *measure* how an AI model behaves against these principles, use [HumaneBench](https://github.com/buildinghumanetech/humanebench). To review pull requests against them, use [humane-gate-action](https://github.com/buildinghumanetech/humane-gate-action).
+
 A collection of tools, guidelines, and resources for building technology that respects human well-being, autonomy, and dignity.
 
 ---
 
 ## What is Humane Technology?
 
-Humane technology is technology that supports human flourishing, minimizes harm, and creates positive outcomes. It is built with an awareness of our capacity for distraction and anxiety, and aims to:
+Humane technology supports human flourishing and creates positive outcomes. It is built with an awareness of our capacity for distraction and anxiety, and aims to:
 - Respect user attention
 - Promote digital well-being
 - Foster meaningful connection
@@ -46,6 +48,8 @@ Explore our documentation to learn about integrating humane design principles in
 5. Explore [books, articles, and research on humane technology](./resources/)
 
 ## Contributing
+
+No code needed: improving a pattern, adding an example, or fixing a link are all welcome. We aim to reply to issues and pull requests within 5 business days.
 
 We welcome contributions from designers, developers, researchers, and anyone interested in humane technology! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get involved.
 
